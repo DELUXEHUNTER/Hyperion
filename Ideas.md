@@ -1,1 +1,1 @@
-I have no ideas for the repository yet but eventually I will.
+I have absolutely no Ideas for this repository and I don't know what I will be doing but I may use it to create a simple website t
