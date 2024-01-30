@@ -3,7 +3,7 @@ body{
     padding:0;
     
     margin:0;
-    background-color: rgba(0, 3, 3, 0.365);
+    background-color: rgba(1, 5, 5, 0.365);
 
 }
 
@@ -63,6 +63,6 @@ header nav{
 }
 
 header .hightlight, header .current a{
-    color:#02010468;
+    color:#03010668;
     font-weight-bold;
 }
