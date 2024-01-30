@@ -99,6 +99,9 @@ header .current a {
 }
 
 
+/*
+Removed temporarily
+
 aside#sidebar {
 
     float: right;
@@ -119,7 +122,16 @@ aside#sidebar {
     margin: 80;
 
 
-}
+  html  <aside id="sidebar">
+    <h4></h4>
+    <li><a href="html/mod.html">Mods</a></li>
+    <li><a href="html/mod.html">Mods</a></li>
+    <li><a href="html/mod.html">Mods</a></li>
+    <li><a href="html/mod.html">Mods</a></li>
+
+</div> 
+</aside>
+}  */
 
 /* About.html */
 
