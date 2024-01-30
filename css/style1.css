@@ -77,7 +77,7 @@ header .hightlight, header .current a{
 #Main-Section{
     min-height:400px;
 
-    text-align:center;
+    text-align:left;
 }
 
 
@@ -96,12 +96,11 @@ header .hightlight, header .current a{
 
 aside#sidebar{
     float:right;
-    width:20px;
-    margin-top:5px;
+    width:50px;
+    margin-top:10px;
     border-left:#b20a0ad9;
     background-color: darkblue;
 }
-
 
 /* About.html */
 
