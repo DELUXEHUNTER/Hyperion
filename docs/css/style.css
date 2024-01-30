@@ -104,7 +104,7 @@ header #About{
 
 header #About h1{
     margin:0;
-    border-spacing: 1cap;
+    padding-bottom: 0cap;
     color: #8b0000;
 }
 header #About h2{
