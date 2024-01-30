@@ -59,6 +59,7 @@ header #branding{
 header #branding h1{
     margin:0;
     color: #8b0000;
+    padding-top: 4px;
 }
 
 header nav{ 
@@ -76,7 +77,6 @@ header .hightlight, header .current a{
 
 #Main-Section{
     min-height:400px;
-
     text-align:left;
 }
 
@@ -85,10 +85,12 @@ header .hightlight, header .current a{
     margin-top:100px;
     font-size:55px;
     margin-bottom:10px;
-    color:crimson;
+    color:rgb(74, 10, 24);
 }
 
 #Main-Section p{
+    width:80%;
+    float: left;
     font-size:20px;
     color:#8b0000;
 }
@@ -96,10 +98,20 @@ header .hightlight, header .current a{
 
 aside#sidebar{
     float:right;
-    width:50px;
+    text-align: center;
+    width: 70px;
+    height: auto;
     margin-top:10px;
-    border-left:#b20a0ad9;
-    background-color: darkblue;
+    border-left:#b20a0ad9 4px solid;
+    background-position: right;
+    background-color: rgb(0, 0, 4);
+    text-align:left;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    color:#8b0000;
+    list-style: none;
+    
 }
 
 /* About.html */
