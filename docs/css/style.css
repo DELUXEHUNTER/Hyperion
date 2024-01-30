@@ -109,6 +109,7 @@ header #About h1{
 }
 header #About h2{
     margin:0;
+    height:39px;
     color: #8b0000;
 }
 
