@@ -112,6 +112,9 @@ header #About h2{
     color: #8b0000;
 }
 
+header nav{ 
+    float:right;
+    margin-top:10px;
+    color: #8b0000;
 
-
-
+}
