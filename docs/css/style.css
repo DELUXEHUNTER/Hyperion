@@ -14,7 +14,12 @@ body{
     overflow:hidden;
 }
 
-/* Header **/
+
+footer{
+    border-top:#890606 4px solid;
+}
+
+/* Header */
 header{
   
     background:rgba(206, 3, 3, 0.919)
@@ -75,6 +80,7 @@ header .hightlight, header .current a{
 
 
 #Central h1{
+    text-align: ;
     margin-top:100px;
     font-size:55px;
     margin-bottom:10px;
@@ -87,7 +93,25 @@ header .hightlight, header .current a{
 }
 
 
-footer{
-    border-top:#890606 4px solid;
+
+/* About.html */
+
+
+header #About{
+    float:left;
+    color: #8b0000;
 }
+
+header #About h1{
+    margin:0;
+    color: #8b0000;
+}
+
+header #About h2{
+    margin:0;
+    color: #8b0000;
+}
+
+
+
 
