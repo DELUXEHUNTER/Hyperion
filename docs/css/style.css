@@ -14,11 +14,11 @@ body{
 
 /* Header **/
 header{
-    background:darkblue
+    background:rgb(11, 2, 24)
     color: #ffffff;
     padding: top 30px;
     min-height:70px;
-    border-bottom:#e8491d 3px solid;
+    border-bottom:#e8491d 5px solid;
 
 }
 
@@ -54,3 +54,7 @@ header nav{
 
 }
 
+header .hightlight, header .current a{
+    color:#11043868;
+    font-weight-bold;
+}
