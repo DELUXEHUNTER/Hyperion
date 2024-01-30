@@ -16,42 +16,48 @@ body{
 
 /* Header **/
 header{
-    color: #8b0000;
+  
     background:rgba(206, 3, 3, 0.919)
     padding;top:30px;
     min-height:70px;
     border-bottom:#8b0000 4px solid;
-
+    color: #8b0000;
 }
 
 header a{
     text-decoration: none;
     text-transform: capitalize;
     font-size: 16px;
+    color: #8b0000;
 }
 
 header u:{
     margin:0;
     padding:0;
+    color: #8b0000;
 }
 
 header li{
     float:left;
     display:inline;
-    padding:0 20px 0 20px
+    padding:0 20px 0 20px;
+    color: #8b0000;
 }
 
 header #branding{
     float:left;
+    color: #8b0000;
 }
 
 header #branding h1{
     margin:0;
+    color: #8b0000;
 }
 
 header nav{ 
     float:right;
     margin-top:10px;
+    color: #8b0000;
 
 }
 
