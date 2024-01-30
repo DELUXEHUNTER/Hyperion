@@ -3,7 +3,7 @@ body{
     padding:0;
     
     margin:0;
-    background-color: rgba(1, 5, 5, 0.365);
+    background-color: rgb(0, 0, 0);
 
 }
 
@@ -13,23 +13,20 @@ body{
     width:80%;
     margin:auto;
     overflow:hidden;
-    color: blue;
+    color: crimson;
 }
 
 /* Header **/
 header{
 
     background:rgb(3, 0, 7)
-    color: crimson;
     padding: top 30px;
     min-height:70px;
-    border-bottom:#e8491d 5px solid;
+    border-bottom:#e8491d 4x solid;
 
 }
 
 header a{
-    color: black;
-    
     text-decoration: none;
     text-transform: capitalize;
     font: size 16px;
@@ -48,7 +45,6 @@ header li{
 
 header #branding{
     float:left;
-    color: crimson;
 }
 
 header #branding h1{
@@ -56,7 +52,6 @@ header #branding h1{
 }
 
 header nav{ 
-    color: crimson;
     float:right;
     margin-top:10px;
 
