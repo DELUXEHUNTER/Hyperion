@@ -31,7 +31,7 @@ header a{
     color: #8b0000;
 }
 
-header u:{
+header u{
     margin:0;
     padding:0;
     color: #8b0000;
@@ -65,4 +65,24 @@ header .hightlight, header .current a{
     color:#fd000032;
     font-weight:bold;
 }
+
+#Central{
+    min-height:400px;
+    
+    text-align:center;
+    color:crimson;
+}
+
+
+#Central h1{
+    margin-top:100px;
+    font-size:55px;
+    margin-bottom:10px;
+}
+
+#Central p{
+    font: size 20px;
+    color:#8b0000;
+}
+
 
