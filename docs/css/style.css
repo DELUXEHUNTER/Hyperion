@@ -66,9 +66,10 @@ header .hightlight, header .current a{
     font-weight:bold;
 }
 
+
 #Central{
     min-height:400px;
-     
+
     text-align:center;
 }
 
@@ -81,7 +82,7 @@ header .hightlight, header .current a{
 }
 
 #Central p{
-    font: size 20px;
+    font-size:20px;
     color:#8b0000;
 }
 
