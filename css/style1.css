@@ -95,6 +95,12 @@ header .current a {
     text-align: left;
 }
 
+#Section1 p{
+    font-size: 20px;
+    color: #8b0000;
+    text-align: left;
+}
+
 
 /*
 Removed temporarily
