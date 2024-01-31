@@ -95,7 +95,7 @@ header .current a {
     text-align: left;
 }
 
-#Section1 p{
+#Section1 p1 {
     font-size: 20px;
     color: #8b0000;
     text-align: left;
@@ -135,8 +135,3 @@ aside#sidebar {
 </div> 
 </aside>
 }  */
-
-
-#Section2{
-
-}
