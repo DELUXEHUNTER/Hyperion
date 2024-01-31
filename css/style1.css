@@ -85,6 +85,7 @@ header .current a {
     font-size: 55px;
     margin-bottom: 3px;
     color: rgb(74, 10, 24);
+    margin: 0.6px
 }
 
 #Section1 p {
@@ -93,13 +94,9 @@ header .current a {
     font-size: 20px;
     color: #8b0000;
     text-align: left;
+    margin: .2px;
 }
 
-#Section1 p1 {
-    font-size: 20px;
-    color: #8b0000;
-    text-align: left;
-}
 
 
 /*
