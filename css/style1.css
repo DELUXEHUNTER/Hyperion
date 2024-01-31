@@ -1,4 +1,4 @@
-/* File covers about.html and index.html  */
+/* File covers first few html files */
 
 body {
     font: 15px/1.5 Arial, Helvetica, sans-serif;
@@ -97,6 +97,30 @@ header .current a {
     margin: .2px;
 }
 
+#Section2 {
+    min-height: 300px;
+}
+
+
+#Section2 h1 {
+    margin-top: 1.3px;
+    font-size: 55px;
+    margin-bottom: 3px;
+    color: rgb(74, 10, 24);
+    margin: 0.6px
+}
+
+#Section2 p {
+    width: 79%;
+    float: left;
+    font-size: 20px;
+    color: #8b0000;
+    text-align: left;
+    margin: .2px;
+}
+
+
+
 
 
 /*
@@ -132,3 +156,4 @@ aside#sidebar {
 </div> 
 </aside>
 }  */
+
