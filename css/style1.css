@@ -104,5 +104,6 @@ header .current a {
     margin: 0;
     margin-left: 20px;
     margin-bottom: 70px;
-    border-left: #8b0000 4px solid
+    border-left: #8b0000 4px solid;
+    position: sticky;
 }
