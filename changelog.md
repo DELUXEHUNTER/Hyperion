@@ -7,7 +7,8 @@ This version is just the base website with nothing but information and no actual
 * Added files for the games, mod, and miscellaneous pages.
 * Minor readme.md changes. Formated HTML Docs. 
 * Edit and Addition to the CSS File to fix the Index[sidebar]. Fixing the margins, and colors for the text.
-* Removed blank html for credit and moved it to below of the main home page
+* Removed credit section from home page
+
 
 
 

@@ -77,7 +77,8 @@
     
     #Section1 {
         min-height: 200px;
-    
+        margin: 50px;
+        border-bottom:solid 3px;
     }
     
     #Section1 h1 {
