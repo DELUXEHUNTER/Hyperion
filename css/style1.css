@@ -107,3 +107,8 @@ header .current a {
     border-left: #8b0000 4px solid;
     position: sticky;
 }
+
+#sidebar h4{
+    color:#8b0000;
+    text-align: center;
+}
