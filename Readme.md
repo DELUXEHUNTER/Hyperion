@@ -4,4 +4,5 @@ This is my first website and I will be using tutorials and some of it will be tr
 
 <div>I'm not very good at coding but this sites mainly just for fun, but please if you see any issues, or just want to request changes use the github issues, or disscussions if I open them up. <div>
 
+
 In the future I will be gone for three months and this project might become unused/unmaintained until I get back unless one of my friends is given access 
