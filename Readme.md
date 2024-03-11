@@ -6,4 +6,4 @@ A disclaimer a lot of the content in this come from someone who doesn't study me
 
 This site is made for lore for both a roleplay, and for the series of Neo games, some individuals found inside of the hospital might be named after important figures or characters of the games. Everything in this site is subject to change including the usage of it, I will back everything up if someone contributes their own pages, but for now if something is changed, I entirely clear it. This site is going to be worked on alongside my game The lands of Neoa, where a patient believes they are the king of this fictional land. All of these games will be connected to newport somehow because It allows me to have some kind of reference.
 
-I don't really know what to write for this.
+I don't really know what to write for this. Or even for any of the sites entries.
